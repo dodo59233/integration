@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+}
+
+nav{
+    position: relative;
+    height: 36px;
+    background-color: #061339;
+    padding-left: 20%;
+    padding-bottom: 0px;
+    padding-top: 7px;
+}
+
+nav h1{
+    position: absolute;
+    color: white;
+    margin: 0;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.background{
+    background-image: url("../img/background.jpg");
+    height: 107px;
+    padding-top: 70px;
+    text-align: center;
+}
+
+h2{
+    margin: 0;
+    color: white;
+    font-weight: 400;
+    font-size: 28px;
+}
+
+.container{
+    width: 60%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.float-left{
+    float: left;
+}
+
+.float-right{
+    float: right;
+}
+
+.bloc-form{
+    width: 25%;
+    margin: 0 1%;
+    padding: 1%;
+    border: 1px solid #e3e3e3;
+}
+
+.bloc-form textarea{
+    width: 96%;
+}
+
+.bloc-form select{
+    width: 100%;
+}
+
+.photo-chat{
+    width: 70%;
+}
+
+.bloc-form h3{
+    text-align: center;
+    color: #2f4073;
+    font-weight: 400;
+}
